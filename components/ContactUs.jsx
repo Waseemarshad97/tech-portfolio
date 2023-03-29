@@ -35,14 +35,14 @@ export const ContactUs = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    console.log();
+    console.log("click");
 
     emailjs
       .sendForm(
-        process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
-        process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
+        "service_t6fh9nq",
+        "template_vwbfhg4",
         form.current,
-        process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
+        "y5Yq9sK-x5FFmSmvb"
       )
       .then(
         (result) => {
@@ -86,7 +86,7 @@ export const ContactUs = () => {
                         <Input
                           placeholder="Your name"
                           type="text"
-                          name="user_name"
+                          name="from_name"
                         />
                       </InputGroup>
                     </FormGroup>
@@ -108,7 +108,7 @@ export const ContactUs = () => {
                       <Input
                         className="form-control-alternative"
                         cols="80"
-                        name="user_message"
+                        name="message"
                         placeholder="Type a message..."
                         rows="4"
                         type="textarea"
