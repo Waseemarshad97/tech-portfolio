@@ -197,14 +197,14 @@ export const educationInfo = [
     schoolName: "Middlesex University, London",
     subHeader: "Master of Arts in International Business Managment",
     duration: "January 2023 - January 2024",
-    desc: "Participated in the research and study of different managment constrains and issues in MNE's across the globe.",
+    desc: "Participated in the research and study of different management constraints and issues in MNE's across the globe.carefully analzed management in MNC's from a global perspective and derived strategies for the overall improvement of the organisations.",
     // grade: "First Class",
   },
   {
     schoolName: "PRIST University, India",
     subHeader: "Bachelor of Technology in Computer Science Engineering",
     duration: "September 2017 - April 2021",
-    desc: "Participated in the research and development of Full stack projects.",
+    desc: "Participated in the research and development of Full stack projects.Learned and executed computer science fundementals and its application through building live projects with latest frameworks and advanced software design principles.",
     grade: "First Class",
   },
   {
