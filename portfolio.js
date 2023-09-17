@@ -4,13 +4,13 @@ export const greetings = {
   name: "Waseem Arshad",
   title: "Hi all, I'm Waseem",
   description:
-    "I'm passionate Full Stack web developer with 3 years of experience in developing applications with Javascript technologies along with mongoDB and postgreSQL. Reinforced with excellent project management skills & knowledge in DSA. I had led development teams of freelance developers and have experience working in early start up’s thus learning skills in business requirement analysis & transforming it in to technical solutions. I’m a passionate tech enthusiast with innate ability to create & manage software products & teams.",
+    "Dedicated and results-driven Software Engineer with three years of hands-on experience in full-stack web development.Proven track record of delivering high-quality software solutions while adapting to evolving technologies and industry best practices. Passionate about creating innovative, scalable, and user-centric applications to solvereal-world problems. Seeking challenging tech developer opportunities in vision driven environments to contribute my expertise and drive technological advancements",
   resumeLink:
-    "https://drive.google.com/file/d/1_oXqO7vOPFMQgVr8OjwsYjMZPrGfU7lb/view?usp=sharing",
+    "https://drive.google.com/file/d/18tDR6wrBrCa24GRh4XFgEcQAbR2I6oJk/view?usp=sharing",
 };
 
 export const openSource = {
-  githubUserName: "wassearshad97",
+  githubUserName: "waseemarshad97",
 };
 
 export const contact = {};
@@ -220,7 +220,7 @@ export const educationInfo = [
       "Science, Maths, English -  language + literature, Business, ICT ,History",
     duration: "September 2012 - june 2014",
     desc: "",
-    grade: "10 A-C",
+    grade: "10 A*-C",
   },
 ];
 
@@ -309,8 +309,9 @@ export const seoData = {
   title: "Waseem Arshad",
   description: "A passionate Full Stack Web Developer and Project Manager.",
   author: "Waseem Arshad",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1waseem100.vercel.app",
+  image:
+    "https://avatars.githubusercontent.com/u/53007599?s=400&u=cb4dc8745a72e8b8f646c7fa051f93a304529e5e&v=4",
+  url: "www.waseemarshad.co.uk",
   keywords: [
     "waseem",
     "Waseem Arshad",
