@@ -311,7 +311,7 @@ export const seoData = {
   author: "Waseem Arshad",
   image:
     "https://avatars.githubusercontent.com/u/53007599?s=400&u=cb4dc8745a72e8b8f646c7fa051f93a304529e5e&v=4",
-  url: "www.waseemarshad.co.uk",
+  url: "https://developer-portfolio-1waseem100.vercel.app",
   keywords: [
     "waseem",
     "Waseem Arshad",
